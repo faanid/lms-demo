@@ -11,13 +11,13 @@ export default function Home() {
         <p>هر جای مسیر که باشی با همراهی استادهای با تجربه کلاسبن میتونی بدون محدودیت به قله های بالاتر صعود کنی ، ما همیشه خواتو داریم</p>
       
       <Image 
-      src="/public/images/frameworks.png"
+      src="/images/frameworks.png"
       className='grayscale mt-4 opacity-70 m-auto xl:m-0'
        width={412}
        height={39}
        alt="" />
        </div>
-       <Image src="/public/images/programmer-landing.svg"
+       <Image src="/images/programmer-landing.svg"
        width={702}
        height={521}
        alt="classbon"
